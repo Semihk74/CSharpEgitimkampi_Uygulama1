@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="01_MainSubjects/01_MainSubjects.csproj" Id="d116ec0c-8afe-40a0-aacc-7dc191aeccdc" />
   <Project Path="02_Variables/02_Variables.csproj" Id="f2109c96-e66e-453a-8d3e-ed2bc328e3c2" />
+  <Project Path="03_MakingDecision/03_MakingDecision.csproj" Id="31eb218d-9885-4dc6-9568-4c9c02052f9a" />
+  <Project Path="04_Loops/04_Loops.csproj" Id="0017c094-aad4-41c8-ad4d-7938858a86ec" />
+  <Project Path="05_LoopWithStars/05_LoopWithStars.csproj" Id="bd6268dc-c3ab-44d8-ae97-cf5d35bb6f6b" />
 </Solution>

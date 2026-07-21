@@ -59,7 +59,7 @@ namespace _05_LoopWithStars
 
             #region Ters Dik üçgen
 
-            //for(int i =5; i>=1; i--)
+            //for (int i = 5; i >= 1; i--)
             //{
             //    for (int j = 1; j <= i; j++)
             //    {
@@ -98,34 +98,34 @@ namespace _05_LoopWithStars
 
             #region Baklava Dilimi
 
-            //üst kısım
+            ////üst kısım
 
             //int n = 5;
-            //for(int i = 1;i<= n;i++)
+            //for (int i = 1; i <= n; i++)
             //{
-            //    for(int j=n-1; j > 0; j--)
+            //    for (int j = n - 1; j > 0; j--)
             //    {
 
             //        Console.Write(" ");
             //    }
 
-            //    for(int k = 1; k <= 2 * i - 1; k++)
+            //    for (int k = 1; k <= 2 * i - 1; k++)
             //    {
             //        Console.Write("*");
             //    }
             //    Console.WriteLine();
             //}
 
-            //// alt kısım
+            ////// alt kısım
 
             //for (int i = n - 1; i >= 1; i--)
             //{
-            //    for(int j = n - 1; j > 0; j--)
+            //    for (int j = n - 1; j > 0; j--)
             //    {
             //        Console.Write(" ");
             //    }
 
-            //    for(int k = 1;k <= 2 * i - 1; k++)
+            //    for (int k = 1; k <= 2 * i - 1; k++)
             //    {
             //        Console.Write("*");
             //    }

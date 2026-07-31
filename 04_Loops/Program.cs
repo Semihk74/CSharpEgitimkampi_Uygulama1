@@ -91,18 +91,18 @@ namespace _04_Loops
 
 
 
-            //int totalvalue = 0;
+            int totalvalue = 0;
 
-            //for(int i = 1; i<20; i++)
-            //{
-            //    if(i% 2 == 0)
-            //    {
-            //        totalvalue += i;  //totalvalue = totalvalue + i;
-            //        Console.WriteLine(i);
-            //    }
-            //}
-            //Console.WriteLine("-----------------------------");
-            //Console.WriteLine(totalvalue);
+            for (int i = 1; i < 20; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    totalvalue += i;  //totalvalue = totalvalue + i;
+                    Console.WriteLine(i);
+                }
+            }
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine(totalvalue);
 
 
 
